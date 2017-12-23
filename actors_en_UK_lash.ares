@@ -1,10 +1,9 @@
 A_Resource_Whose_Name = actors_en_US_dedes
 
-Programmer = "Software dude"
 Candidate_Sponsor = "CANDIDATE/SPONSOR"
 Chanter = "CHANTER"
-ChanterOrReader = "CHANTER OR READER"
-Singers = "CHOIR"
+ChanterOrReader = "CHANTER | READER"
+Choir = "CHOIR" // ~Singers~
 ChoirL = "LEFT CHOIR"
 ChoirR = "RIGHT CHOIR"
 Clergy = "CLERGY"
@@ -12,9 +11,9 @@ ClergyAndPeople = "CLERGY & PEOPLE"
 Deacon = "DEACON"
 Hierarch = "HIERARCH"
 HierarchOrPriest = "HIERARCH OR PRIEST"
-Monk = "Monk"
+Monastic = "Monastic" // ~Monk~
 People = "PEOPLE"
 Priest = "PRIEST"
 PriestOrDeacon = "PRIEST/DEACON"
 Reader = "READER"
-Superior = "SUPERIOR"
+Missionary = "MISSIONARY"
