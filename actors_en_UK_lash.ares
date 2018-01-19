@@ -15,5 +15,5 @@ Monastic = "Monastic" // ~Monk~
 People = "PEOPLE"
 Priest = "PRIEST"
 PriestOrDeacon = "PRIEST/DEACON"
-Reader = actors_en_US_dedes.Reader 
+Reader = actors_en_US_goa.Reader 
 Missionary = "MISSIONARY"
