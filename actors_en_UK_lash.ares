@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = actors_en_US_dedes
+A_Resource_Whose_Name = actors_en_UK_lash
 
 Candidate_Sponsor = "CANDIDATE/SPONSOR"
 Chanter = "CHANTER"
@@ -15,4 +15,5 @@ Monastic = "Monastic" // ~Monk~
 People = "PEOPLE"
 Priest = "PRIEST"
 PriestOrDeacon = "PRIEST/DEACON"
-Reader = "READER"
+Reader = actors_en_US_dedes.Reader 
+Missionary = "MISSIONARY"
